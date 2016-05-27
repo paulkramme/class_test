@@ -11,7 +11,7 @@ class square
      }
 };
 
-square::square(int a, int b)
+square::square(int a, int b) //constructor
 {
      width = a;
      height = b;
